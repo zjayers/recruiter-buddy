@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/recruiter-buddy/static/css/main.44087e4a.chunk.css",
-    "main.js": "/recruiter-buddy/static/js/main.8e57949f.chunk.js",
-    "main.js.map": "/recruiter-buddy/static/js/main.8e57949f.chunk.js.map",
+    "main.js": "/recruiter-buddy/static/js/main.607514d8.chunk.js",
+    "main.js.map": "/recruiter-buddy/static/js/main.607514d8.chunk.js.map",
     "runtime-main.js": "/recruiter-buddy/static/js/runtime-main.fb5ae009.js",
     "runtime-main.js.map": "/recruiter-buddy/static/js/runtime-main.fb5ae009.js.map",
     "static/css/2.7e400d2a.chunk.css": "/recruiter-buddy/static/css/2.7e400d2a.chunk.css",
     "static/js/2.39c3243b.chunk.js": "/recruiter-buddy/static/js/2.39c3243b.chunk.js",
     "static/js/2.39c3243b.chunk.js.map": "/recruiter-buddy/static/js/2.39c3243b.chunk.js.map",
     "index.html": "/recruiter-buddy/index.html",
-    "precache-manifest.ee71cf12b8c5e307cf3de9aec719d366.js": "/recruiter-buddy/precache-manifest.ee71cf12b8c5e307cf3de9aec719d366.js",
+    "precache-manifest.cc897e23fecab499a65097308edd8c1d.js": "/recruiter-buddy/precache-manifest.cc897e23fecab499a65097308edd8c1d.js",
     "service-worker.js": "/recruiter-buddy/service-worker.js",
     "static/css/2.7e400d2a.chunk.css.map": "/recruiter-buddy/static/css/2.7e400d2a.chunk.css.map",
     "static/css/main.44087e4a.chunk.css.map": "/recruiter-buddy/static/css/main.44087e4a.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.7e400d2a.chunk.css",
     "static/js/2.39c3243b.chunk.js",
     "static/css/main.44087e4a.chunk.css",
-    "static/js/main.8e57949f.chunk.js"
+    "static/js/main.607514d8.chunk.js"
   ]
 }

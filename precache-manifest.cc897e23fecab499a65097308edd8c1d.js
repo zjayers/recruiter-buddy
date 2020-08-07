@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee8e224e69d9180245121ac4fbd62c51",
+    "revision": "64f6e8a5fcbae10672586228cbdeebe2",
     "url": "/recruiter-buddy/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/recruiter-buddy/static/css/2.7e400d2a.chunk.css"
   },
   {
-    "revision": "836bb13361442c404a9f",
+    "revision": "3f32ba8f26c959cf3d93",
     "url": "/recruiter-buddy/static/css/main.44087e4a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/recruiter-buddy/static/js/2.39c3243b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "836bb13361442c404a9f",
-    "url": "/recruiter-buddy/static/js/main.8e57949f.chunk.js"
+    "revision": "3f32ba8f26c959cf3d93",
+    "url": "/recruiter-buddy/static/js/main.607514d8.chunk.js"
   },
   {
     "revision": "652b8ca763546fce3e5c",
