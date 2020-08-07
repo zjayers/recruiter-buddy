@@ -4,8 +4,8 @@ import { Container, Dropdown, Form, Header } from "semantic-ui-react";
 import { generateFromData } from "./TEMPLATE";
 
 function App() {
-  const [firstName, setFirstName] = useState("Zach");
-  const [lastName, setLastName] = useState("Ayers");
+  const [firstName, setFirstName] = useState("");
+  const [lastName, setLastName] = useState("");
   const [jobTitle, setJobTitle] = useState("");
   const [contactName, setContactName] = useState("");
   const [type, setType] = useState("interested");
