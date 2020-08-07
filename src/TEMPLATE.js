@@ -36,7 +36,7 @@ Hi ${d.contactName},
 
 Thank you for reaching out with this awesome opportunity!
 
-I’m interested in the open ${d.jobTitle} role and would like to learn more about the the specifics of the role.
+I’m interested in the open ${d.jobTitle} role and would like to learn more details about the position.
 
 I’ve attached my resume for your review. Would it be possible for us to connect via phone next week?
 
