@@ -1,17 +1,8 @@
-import moment from "moment";
-
 export const generateFromData = (d) => {
   return `
 
 ${renderType(d)}
 ${d.userName}
-
-Email: ${d.email}
-Phone: ${d.phoneNumber}
-GitHub: github.com/${d.gitProfile}
-Website: ${d.website}
-
-${moment().format("MMMM Do, YYYY")}
 `;
 };
 
