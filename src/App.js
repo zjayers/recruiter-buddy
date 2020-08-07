@@ -6,7 +6,6 @@ import { generateFromData } from "./TEMPLATE";
 function App() {
   const [firstName, setFirstName] = useState("Zach");
   const [lastName, setLastName] = useState("Ayers");
-  const [companyName, setCompanyname] = useState("");
   const [jobTitle, setJobTitle] = useState("");
   const [contactName, setContactName] = useState("");
   const [type, setType] = useState("interested");
@@ -75,15 +74,6 @@ function App() {
               />
             </Form.Field>
             <Form.Field>
-              <label>Company Name</label>
-              <input
-                value={companyName}
-                onChange={(e) => setCompanyname(e.target.value)}
-                type="text"
-                placeholder="Company Name"
-              />
-            </Form.Field>
-            <Form.Field>
               <label>Job Title</label>
               <input
                 value={jobTitle}
@@ -122,7 +112,6 @@ function App() {
             value={generateFromData({
               userName: firstName + " " + lastName,
               contactName,
-              companyName,
               jobTitle,
               type,
             })}
