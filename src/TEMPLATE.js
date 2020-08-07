@@ -69,7 +69,7 @@ const company = (d) => {
   return `
 Hi ${d.contactName},
 
-Thank you for your note about ${d.jobTitle}. While the role seems interesting and the work this company is doing is impressive, I do not believe I will be an ideal fit. Would you happen to know if the company is hiring for any other positions that batter fit my background? If so, I’d love to connect!
+Thank you for your note about ${d.jobTitle}. While the role seems interesting and the work this company is doing is impressive, I do not believe I will be an ideal fit. Would you happen to know if the company is hiring for any other positions that better fit my background? If so, I’d love to connect!
 
 I’ve attached my resume for your review. 
 
