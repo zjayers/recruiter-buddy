@@ -1,15 +1,15 @@
 {
-  "name": "outreach-buddy",
+  "name": "recruiter-buddy",
   "version": "1.0.0",
   "private": true,
   "description": "",
-  "homepage": "https://zjayers.github.io/outreach-buddy/",
+  "homepage": "https://zjayers.github.io/recruiter-buddy/",
   "bugs": {
-    "url": "https://github.com/zjayers/outreach-buddy/issues"
+    "url": "https://github.com/zjayers/recruiter-buddy/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zjayers/outreach-buddy.git"
+    "url": "git+https://github.com/zjayers/recruiter-buddy.git"
   },
   "license": "MIT",
   "author": "Zach Ayers",
