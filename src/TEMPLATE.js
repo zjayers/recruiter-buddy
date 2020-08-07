@@ -31,7 +31,9 @@ I’m interested in the open ${d.jobTitle} role and would like to learn more det
 
 I’ve attached my resume for your review. Would it be possible for us to connect via phone next week?
 
-I look forward to speaking!
+I look forward to speaking with you!
+
+Best,
 `;
 };
 
