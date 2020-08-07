@@ -29,7 +29,7 @@ Thank you for reaching out with this awesome opportunity!
 
 I’m interested in the open ${d.jobTitle} role and would like to learn more details about the position.
 
-I’ve attached my resume for your review. Would it be possible for us to connect via phone next week?
+I’ve attached my resume for your review. Would it be possible for us to connect via phone?
 
 I look forward to speaking with you!
 
@@ -45,7 +45,7 @@ Thank you for your InMail.
 
 I’m pretty happy in my current role, but I’d be open to discussing this opportunity with you.
 
-I’ve attached my resume for your review. Would it be possible for us to connect via phone next week?
+I’ve attached my resume for your review. Would it be possible for us to connect via phone?
 
 I look forward to speaking with you!
 
