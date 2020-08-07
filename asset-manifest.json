@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/outreach-buddy/static/css/main.44087e4a.chunk.css",
-    "main.js": "/outreach-buddy/static/js/main.b6964ea8.chunk.js",
-    "main.js.map": "/outreach-buddy/static/js/main.b6964ea8.chunk.js.map",
-    "runtime-main.js": "/outreach-buddy/static/js/runtime-main.eb9b7229.js",
-    "runtime-main.js.map": "/outreach-buddy/static/js/runtime-main.eb9b7229.js.map",
-    "static/css/2.c0576261.chunk.css": "/outreach-buddy/static/css/2.c0576261.chunk.css",
-    "static/js/2.b3cb87c6.chunk.js": "/outreach-buddy/static/js/2.b3cb87c6.chunk.js",
-    "static/js/2.b3cb87c6.chunk.js.map": "/outreach-buddy/static/js/2.b3cb87c6.chunk.js.map",
-    "index.html": "/outreach-buddy/index.html",
-    "precache-manifest.cec170b1e6142d548b4d11b5712d451e.js": "/outreach-buddy/precache-manifest.cec170b1e6142d548b4d11b5712d451e.js",
-    "service-worker.js": "/outreach-buddy/service-worker.js",
-    "static/css/2.c0576261.chunk.css.map": "/outreach-buddy/static/css/2.c0576261.chunk.css.map",
-    "static/css/main.44087e4a.chunk.css.map": "/outreach-buddy/static/css/main.44087e4a.chunk.css.map",
-    "static/js/2.b3cb87c6.chunk.js.LICENSE.txt": "/outreach-buddy/static/js/2.b3cb87c6.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/outreach-buddy/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/recruiter-buddy/static/css/main.44087e4a.chunk.css",
+    "main.js": "/recruiter-buddy/static/js/main.c010c5d4.chunk.js",
+    "main.js.map": "/recruiter-buddy/static/js/main.c010c5d4.chunk.js.map",
+    "runtime-main.js": "/recruiter-buddy/static/js/runtime-main.fb5ae009.js",
+    "runtime-main.js.map": "/recruiter-buddy/static/js/runtime-main.fb5ae009.js.map",
+    "static/css/2.7e400d2a.chunk.css": "/recruiter-buddy/static/css/2.7e400d2a.chunk.css",
+    "static/js/2.6286b345.chunk.js": "/recruiter-buddy/static/js/2.6286b345.chunk.js",
+    "static/js/2.6286b345.chunk.js.map": "/recruiter-buddy/static/js/2.6286b345.chunk.js.map",
+    "index.html": "/recruiter-buddy/index.html",
+    "precache-manifest.dd77f7ff81c47464cd880c70a85c9dd4.js": "/recruiter-buddy/precache-manifest.dd77f7ff81c47464cd880c70a85c9dd4.js",
+    "service-worker.js": "/recruiter-buddy/service-worker.js",
+    "static/css/2.7e400d2a.chunk.css.map": "/recruiter-buddy/static/css/2.7e400d2a.chunk.css.map",
+    "static/css/main.44087e4a.chunk.css.map": "/recruiter-buddy/static/css/main.44087e4a.chunk.css.map",
+    "static/js/2.6286b345.chunk.js.LICENSE.txt": "/recruiter-buddy/static/js/2.6286b345.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/recruiter-buddy/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb9b7229.js",
-    "static/css/2.c0576261.chunk.css",
-    "static/js/2.b3cb87c6.chunk.js",
+    "static/js/runtime-main.fb5ae009.js",
+    "static/css/2.7e400d2a.chunk.css",
+    "static/js/2.6286b345.chunk.js",
     "static/css/main.44087e4a.chunk.css",
-    "static/js/main.b6964ea8.chunk.js"
+    "static/js/main.c010c5d4.chunk.js"
   ]
 }
