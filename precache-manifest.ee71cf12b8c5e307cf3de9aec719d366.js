@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ea30effccbd483a6d629bfba6e55fac",
+    "revision": "ee8e224e69d9180245121ac4fbd62c51",
     "url": "/recruiter-buddy/index.html"
   },
   {
-    "revision": "8478286495f1e66aab8a",
+    "revision": "b4cd606f712443e43bb2",
     "url": "/recruiter-buddy/static/css/2.7e400d2a.chunk.css"
   },
   {
-    "revision": "ed856217b83ecc7b9f94",
+    "revision": "836bb13361442c404a9f",
     "url": "/recruiter-buddy/static/css/main.44087e4a.chunk.css"
   },
   {
-    "revision": "8478286495f1e66aab8a",
-    "url": "/recruiter-buddy/static/js/2.dbec679f.chunk.js"
+    "revision": "b4cd606f712443e43bb2",
+    "url": "/recruiter-buddy/static/js/2.39c3243b.chunk.js"
   },
   {
     "revision": "5bd09eb7f2cf4d145d532d862be18942",
-    "url": "/recruiter-buddy/static/js/2.dbec679f.chunk.js.LICENSE.txt"
+    "url": "/recruiter-buddy/static/js/2.39c3243b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ed856217b83ecc7b9f94",
-    "url": "/recruiter-buddy/static/js/main.2f830358.chunk.js"
+    "revision": "836bb13361442c404a9f",
+    "url": "/recruiter-buddy/static/js/main.8e57949f.chunk.js"
   },
   {
     "revision": "652b8ca763546fce3e5c",
